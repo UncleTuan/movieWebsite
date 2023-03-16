@@ -117,7 +117,7 @@ header nav .search_user input::placeholder {
   color: #fff;
 }
 
-header nav .search_user img {
+header nav .search_user a {
   width: 23px;
   height: 23px;
   border-radius: 50%;
